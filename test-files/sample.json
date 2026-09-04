@@ -1,0 +1,23 @@
+{
+  "application": {
+    "name": "Zoho Cliq",
+    "feature": "Attachment Copy button",
+    "enabled": true
+  },
+  "testers": [
+    {
+      "id": 1,
+      "name": "Anand",
+      "roles": ["administrator", "tester"]
+    },
+    {
+      "id": 2,
+      "name": "QA Tester",
+      "roles": ["tester"]
+    }
+  ],
+  "testSettings": {
+    "preserveWhitespace": true,
+    "formats": ["preview", "clipboard"]
+  }
+}

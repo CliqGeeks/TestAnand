@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-suite name="Zoho Cliq attachments" version="1.0">
+  <feature id="copy-button" enabled="true">
+    <description>Copy complete attachment content without formatting loss.</description>
+    <testers>
+      <tester id="1" role="administrator">Anand</tester>
+      <tester id="2" role="qa">QA Tester</tester>
+    </testers>
+    <formats>
+      <format mime-type="text/xml">preview</format>
+      <format mime-type="application/xml">clipboard</format>
+    </formats>
+  </feature>
+</test-suite>
