@@ -1,0 +1,4 @@
+id,name,role,active,notes
+1,Anand,Administrator,true,Primary test user
+2,QA Tester,Quality Assurance,true,"Validates commas, quotes, and line breaks"
+3,Cliq User,Support,false,Inactive sample account
